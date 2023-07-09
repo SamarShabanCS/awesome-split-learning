@@ -51,6 +51,7 @@ A curated repository for various papers in the domain of split learning.
 [DISCO: Dynamic and Invariant Sensitive Channel Obfuscation for deep neural networks](https://arxiv.org/abs/2012.11025)
 
 ## Attacks
+
 [Model Inversion Attacks Against Collaborative Inference](https://dl.acm.org/doi/10.1145/3359789.3359824)
 
 [Unleashing the Tiger: Inference Attacks on Split Learning](https://arxiv.org/abs/2012.02670)
@@ -59,6 +60,7 @@ A curated repository for various papers in the domain of split learning.
 ## workshops
 
 [Workshop on Split Learning for Distributed Machine Learning (SLDML’21)](https://www.youtube.com/watch?v=VPL6ELWdJbg)
+
 [Parallel Training of Deep Networks with Local Updates](https://www.youtube.com/watch?v=LTJumukGynM&list=PL8CQoYMo9Ycosl78tnnWwSL15YCCN-O2P&index=1)
 
 
