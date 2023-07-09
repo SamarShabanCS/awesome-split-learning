@@ -59,7 +59,7 @@ A curated repository for various papers in the domain of split learning.
 ## workshops
 
 [Workshop on Split Learning for Distributed Machine Learning (SLDML’21)](https://www.youtube.com/watch?v=VPL6ELWdJbg)
-[https://www.youtube.com/watch?v=LTJumukGynM&list=PL8CQoYMo9Ycosl78tnnWwSL15YCCN-O2P&index=1](worshop)
+[Parallel Training of Deep Networks with Local Updates](https://www.youtube.com/watch?v=LTJumukGynM&list=PL8CQoYMo9Ycosl78tnnWwSL15YCCN-O2P&index=1)
 
 
 ## Talks
